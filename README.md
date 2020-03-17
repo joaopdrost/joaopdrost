@@ -1,6 +1,6 @@
 # joaopdrost
-programa{
 
+        programa{
 	
 	funcao inicio()
 	{
@@ -55,6 +55,5 @@ programa{
 		se(dia >= 1 e dia <= 31 e mes == 12){
 			escreva("proximo mes é Janeiro")
 		}
-
 	}
 }
