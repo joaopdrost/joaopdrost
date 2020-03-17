@@ -1,9 +1,9 @@
 # joaopdrost
 
-        programa{
-	
-	funcao inicio()
-	{
+          programa{
+	  
+	   funcao inicio(){
+	   
 		inteiro dia, mes
 		escreva("informe o dia e o mes que voce queira saber! \n ")
 		leia(dia, mes)
