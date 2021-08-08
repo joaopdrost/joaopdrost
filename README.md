@@ -1,4 +1,4 @@
-## Eai! Eu sou João Pedro dos Santos
+## Eai!! Eu sou João Pedro dos Santos
  <div>
   <a href="https://github.com/joaopdrost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
