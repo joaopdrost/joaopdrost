@@ -10,8 +10,7 @@ Eai! Eu sou João Pedro
  <div> 
   <a href="https://www.instagram.com/jpss643/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-pedro-661b0a1a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a> 
-   
+ </a>
    
   ![Snake animation](https://github.com/joaopdrost/joaopdrost/blob/output/github-contribution-grid-snake.svg)
  
