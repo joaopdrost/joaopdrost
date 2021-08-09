@@ -1,4 +1,7 @@
-## Eai!! Eu sou João Pedro dos Santos 😀😎
+## :computer: João Pedro dos Santos 😀😎
+ ## Olá 👋
+ <img src="http://views.whatilearened.today/views/github/joaopdrost/views.svg"/> <a href="https://github.com/Prof-Rodrigo-Silva/"><img src="https://img.shields.io/github/followers/joaopdrost?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
+
  <div>
   <a href="https://github.com/joaopdrost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
