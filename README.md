@@ -2,10 +2,11 @@
   <h1>Hi!, I'm João Pedro!😀😎<h1/>
  <img src="http://views.whatilearened.today/views/github/joaopdrost/views.svg"/> <a href="https://github.com/Prof-Rodrigo-Silva/"><img src="https://img.shields.io/github/followers/joaopdrost?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
 
- <div>
+<br/>
+<div style="display: inline_block" align="center">
   <a href="https://github.com/joaopdrost">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrost&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrost&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
   ## Language i use📗📘
