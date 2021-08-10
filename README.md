@@ -1,4 +1,4 @@
-<div style="display: inline_block" align="center"><br>
+
   <h1>Hi!, I'm João Pedro!😀😎<h1/>
 <p align="center">
 
@@ -8,7 +8,7 @@
 
 </p>
     
- <h2 align="center">Linguagens e ferramentas</h2>
+ <h2>Languages and Tools</h2>
 
 <p align="center">
  <div style="display: inline-block" align="center"><br>
@@ -28,11 +28,16 @@
 </div>
 
  <br>
+  <h2>Social networks</h2>
+  
 <div align = "center" > 
  <a href="https://www.instagram.com/jpss643/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-pedro-661b0a1a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopdrost@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://twitter.com/joaopdrost" target="_blank"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank">
+    
+   ##
+    
   </a>
  
   ![Snake animation](https://github.com/joaopdrost/joaopdrost/blob/output/github-contribution-grid-snake.svg)
