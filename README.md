@@ -14,17 +14,18 @@
  <div style="display: inline-block" align="center"><br>
                <img align="center" alt="João-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
                <img align="center" alt="João-Java" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+               
 </div>
 </p>
 
-<p align = "center">
+<p align = "left">
  <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=joaopdrost&theme=xcode">
 </p> 
-<div align = "center">
+<div align = "left">
 <a href="https://github.com/joaopdrost">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrost&layout=compact&langs_count=7&theme=tokyonight"/>
- <img height="120em"  src="https://github-readme-streak-stats.herokuapp.com/?user=joaopdrost&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img align="right" alt="João-img" src="https://camo.githubusercontent.com/f8cc4fbaf3fd8e3c056e08b4620712819bd1195f08a452265f5d283761353642/68747470733a2f2f7468756d62732e6766796361742e636f6d2f44616d61676564496d706f7274616e74416d7572726174736e616b652d73697a655f726573747269637465642e676966">
 </div>
 
  <br>
@@ -37,8 +38,8 @@
   <a href= "https://twitter.com/joaopdrost" target="_blank"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank">
     
    ##
-    
   </a>
- 
-  ![Snake animation](https://github.com/joaopdrost/joaopdrost/blob/output/github-contribution-grid-snake.svg)
+  
+ ![Snake animation](https://github.com/joaopdrost/joaopdrost/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
