@@ -41,5 +41,4 @@
   </a>
  
   ![Snake animation](https://github.com/joaopdrost/joaopdrost/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
