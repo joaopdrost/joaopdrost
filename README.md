@@ -25,7 +25,7 @@
 <a href="https://github.com/joaopdrost">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrost&layout=compact&langs_count=7&theme=tokyonight"/>
-<img align="right" height="165em" alt="João-img" src="https://camo.githubusercontent.com/f8cc4fbaf3fd8e3c056e08b4620712819bd1195f08a452265f5d283761353642/68747470733a2f2f7468756d62732e6766796361742e636f6d2f44616d61676564496d706f7274616e74416d7572726174736e616b652d73697a655f726573747269637465642e676966">
+<img align="right" height="145em" alt="João-img" src="https://camo.githubusercontent.com/f8cc4fbaf3fd8e3c056e08b4620712819bd1195f08a452265f5d283761353642/68747470733a2f2f7468756d62732e6766796361742e636f6d2f44616d61676564496d706f7274616e74416d7572726174736e616b652d73697a655f726573747269637465642e676966">
 </div>
 
  <br>
