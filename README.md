@@ -25,7 +25,7 @@
 <a href="https://github.com/joaopdrost">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaopdrost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrost&layout=compact&langs_count=7&theme=tokyonight"/>
-<img align="right" height="250em" alt="João-img" src="https://camo.githubusercontent.com/f8cc4fbaf3fd8e3c056e08b4620712819bd1195f08a452265f5d283761353642/68747470733a2f2f7468756d62732e6766796361742e636f6d2f44616d61676564496d706f7274616e74416d7572726174736e616b652d73697a655f726573747269637465642e676966">
+  <img align="right" alt="João-rapper" src="https://i.picasion.com/pic91/0af82c43c68cdad0ffc26dd113a1e90b.gif">
 </div>
 
  <br>
@@ -37,8 +37,9 @@
   <a href = "mailto:joaopdrost@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://twitter.com/joaopdrost" target="_blank"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank">
     
+    
    ##
   </a>
-  
+  <img align="center" height="180em" alt="João-img" src="https://camo.githubusercontent.com/f8cc4fbaf3fd8e3c056e08b4620712819bd1195f08a452265f5d283761353642/68747470733a2f2f7468756d62732e6766796361742e636f6d2f44616d61676564496d706f7274616e74416d7572726174736e616b652d73697a655f726573747269637465642e676966">
   
 </div>
